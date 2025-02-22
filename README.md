@@ -36,6 +36,6 @@ web projects.
 watch this space!
 
 ## Let's Connect
-Looking for Python-based opportunities or
-freelance gigs? Reach out at 
+I'm Looking for Python-based opportunities or
+freelance gigs 
 [phillipgilbert@sparkaiportfolio.com]!
