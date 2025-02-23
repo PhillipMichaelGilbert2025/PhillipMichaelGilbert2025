@@ -30,8 +30,8 @@ PhillipMichaelGilbert2025/Designing-Functions-In-The-Codio-Framework - A
 programming and debugging script using Python designed to test essential functions
 
 ## What I'm Up To
-- Deepening my Python skills with AI and web
-web projects.
+- Deepening my Python skills with Machine Learning, DevOps and
+web development projects.
 -Exploring web dev with Flask and Django-
 watch this space!
 
