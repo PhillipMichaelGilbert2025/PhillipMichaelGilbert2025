@@ -32,8 +32,6 @@ programming and debugging script using Python designed to test essential functio
 ## What I'm Up To
 - Deepening my Python skills with Machine Learning, DevOps and
 web development projects.
--Exploring web dev with Flask and Django-
-watch this space!
 
 ## Let's Connect
 I'm Looking for Python-based opportunities or
