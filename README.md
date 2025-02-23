@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @PhillipMichaelGilbert2025
-- 👀 Aspiring Web Developer | AI Developer | Software Engineer
-- 🌱 I’m passionate about solving problems and
-- 💞️ building cool stuff with code. Right now,
-- 📫 Python's my go-to tool. Check out my work
-- 😄 at [sparkaiportfolio.com] (https://www.sparkaiportfolio.com) 
+-  Hi, I’m @PhillipMichaelGilbert2025
+-  Aspiring Web Developer | AI Developer | Software Engineer
+-  I’m passionate about solving problems and
+-  building cool stuff with code. Right now,
+-  Python's my go-to tool. Check out my work
+-  at [sparkaiportfolio.com] (https://www.sparkaiportfolio.com) 
 - ⚡ Skills
 - **Core**: Python
 - **AI/ML**: Pandas, NumPy, Scikit-learn,
