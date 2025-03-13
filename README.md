@@ -26,7 +26,7 @@ personal website build with Flask and deployed live.
 PhillipMichaelGilbert2025/Python-Coinage-Currency-Converter) - A 
 world wide currency converter using Python in VS Code 
 -[Pulse-Planner-AI-Workforce-Solutions-AHS-Calgary](https://github.com/
-PhillipMichaelGilbert2025/Pulse-Planner-AI-Workforce-Solutions-AHS-Calgary - A
+PhillipMichaelGilbert2025/Pulse-Planner-AI-Workforce-Solutions-AHS-Calgary) - A
 AI powered scheduling platform for AHS healthcare workers using using Python
 
 ## What I'm Up To
