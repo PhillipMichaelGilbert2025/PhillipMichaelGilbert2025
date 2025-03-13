@@ -25,9 +25,9 @@ personal website build with Flask and deployed live.
 -[Python-Coinage-Currency-Converter](https://github.com/
 PhillipMichaelGilbert2025/Python-Coinage-Currency-Converter) - A 
 world wide currency converter using Python in VS Code 
--[Designing-Functions-In-The-Codio-Framework](https://github.com/
-PhillipMichaelGilbert2025/Designing-Functions-In-The-Codio-Framework - A
-programming and debugging script using Python designed to test essential functions
+-[Pulse-Planner-AI-Workforce-Solutions-AHS-Calgary](https://github.com/
+PhillipMichaelGilbert2025/Pulse-Planner-AI-Workforce-Solutions-AHS-Calgary - A
+AI powered scheduling platform for AHS healthcare workers using using Python
 
 ## What I'm Up To
 - Deepening my Python skills with Machine Learning, DevOps and
