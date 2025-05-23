@@ -1,5 +1,5 @@
 -  Hi, I’m @PhillipMichaelGilbert2025
-- Web Developer | AI Developer | Principal Software Engineer
+- Web Developer | Principal AI Developer | Software Engineer
 -  I’m passionate about solving problems and
 -  building cool stuff with code. Right now,
 -  Python's my go-to tool. Check out my work
